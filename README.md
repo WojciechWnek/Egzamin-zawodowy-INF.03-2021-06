@@ -5,6 +5,8 @@
 The repository presents the method of terminating the state vocational examination of June 2021 on the professional qualification INF.03 - Creation and administration of websites, internet applications and databases.  
 Next instructions provided in Polish language.
 
+Screenshots can be found in the [phpmyadmin](phpmyadmin) folder.
+
 *The data in my database may differ from the answer keys as I did not have access to the original exam file.*
 
 ## Streszczenie
