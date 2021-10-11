@@ -11,6 +11,8 @@ Next instructions provided in Polish language.
 
 Repozytorium przedstawia sposób roziazania państwowego egzaminu zawodowego z czerwcza 2021 z kwalifikacji zawodowej INF.03 - Tworzenie i administrowanie stronami i aplikacjami internetowymi oraz bazami danych.
 
+Zrzuty ekranu znajdują sie w folderze [phpmyadmin](phpmyadmin).
+
 *Dane w mojej bazie danych mogą róznić się od podawanych w kluczy odpowiedzi z racji tego, że nie miałem dostepu do oryginalnego pliku z egzaminu.*
 
 <br/>
