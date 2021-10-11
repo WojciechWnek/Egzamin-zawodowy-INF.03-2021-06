@@ -22,8 +22,10 @@ Repozytorium przedstawia sposób roziazania państwowego egzaminu zawodowego z c
 ![Strona 4](instrukcje/inf_03_2021_06_01-4.png)
 ![Strona 5](instrukcje/inf_03_2021_06_01-5.png)
 
+[Źródło](https://egzamin-inf03.blogspot.com/2021/09/arkusz-inf03-01-2106-sg.html)
+
 </details>
-<br/>
+
 <details>
   <summary>Kryteria oceniania</summary>
     <br>
@@ -31,4 +33,9 @@ Repozytorium przedstawia sposób roziazania państwowego egzaminu zawodowego z c
 ![Strona 1](kryteria_oceniania/inf_03_2021_06_01-1.png)
 ![Strona 2](kryteria_oceniania/inf_03_2021_06_01-2.png)
 
+[Źródło](https://egzamin-inf03.blogspot.com/2021/09/zasady-oceniania-inf03-01-2106-sg.html)
+
 </details>
+<br/>
+
+[Źródło powyzszego egzaminu](https://egzamin-inf03.blogspot.com/)
